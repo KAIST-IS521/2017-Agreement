@@ -1,2 +1,2 @@
-# Ethical Conduct Agreements
+# Ethical Conduct Agreement
 [click](Agreement.md)
